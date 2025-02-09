@@ -44,6 +44,7 @@ IT professionals are high earners ($477M) and spenders ($244M), preferring tech-
  ![image](https://github.com/user-attachments/assets/04fae426-d4e9-4de3-906d-ae4c1e505a9b)
 ## Spending & Utilization
 Overall utilization is 42.82% ($1.24B income, $531M spent). IT employees lead in spending. Bills ($105M), groceries ($86M), and electronics ($80M) are the top spending categories. Credit card usage within this customer base is notably higher than debit card and UPI transactions, presenting a significant opportunity for the bank to capitalize on this preference.
+
   ![image](https://github.com/user-attachments/assets/8dee64fb-27cb-43ca-939c-9e3d891882e0)
   ![image](https://github.com/user-attachments/assets/bc4585ac-a846-4050-ad4d-23723001935d)
 ## Targeted Product Opportunities
